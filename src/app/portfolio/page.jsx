@@ -18,7 +18,7 @@ const items = [
     color: "from-red-300 to-blue-300",
     title: "Fitness Landing Page",
     desc: "A dynamic fitness landing page built with vanilla JavaScript, featuring sleek animations, interactive elements, and a responsive design. The project includes smooth CSS transitions, hover effects, image carousels, and real-time form validation for an engaging user experience. ",
-    img: "/fitness_landing_page.jpg",
+    img: "/fitness_landing_page.JPG",
     link: "https://mustaeen-7.github.io/landingpage/",
   },
   {
